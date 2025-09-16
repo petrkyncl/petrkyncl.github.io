@@ -67,24 +67,36 @@
 ### Literární figury (příklady z textu)
 
 * **Personifikace:**
-    * **Příklad:** `(vy) moji hodní přátelé` (oslovení peněz)
+    * **Příklad:** *„(vy) moji hodní přátelé“* (oslovení peněz)
+
 * **Archaismus:**
-    * **Příklad:** `dráby`, `profousy` (zastaralé výrazy pro strážníky)
+    * **Příklad:** *„dráby“, „profousy“* (zastaralé výrazy pro strážníky)
+
 * **Historismus:**
-    * **Příklad:** `komisaře` (označení pro historickou funkci)
+    * **Příklad:** *„komisaře“* (označení pro historickou funkci)
+
 * **Apostrofa:**
-    * **Příklad:** `Spravedlivé nebe!` (oslovení abstraktního pojmu)
+    * **Příklad:** *„Spravedlivé nebe!“* (oslovení abstraktního pojmu)
+
 * **Hyperbola:**
-    * **Příklad:** `jsem mrtev, jsem pohřben` (nadsazené vyjádření zoufalství)
+    * **Příklad:** *„jsem mrtev, jsem pohřben“* (nadsazené vyjádření zoufalství)
+
 * **Zdrobnělina:**
-    * **Příklad:** `kasička`
+    * **Příklad:** *„kasička“*
+
 * **Gradace:**
-    * **Příklad:** `umírám, jsem mrtev, jsem pohřben` (stupňování výrazů)
+    * **Příklad:** *„umírám, jsem mrtev, jsem pohřben“* (stupňování výrazů)
+
 * **Složenina:**
-    * V textu se nenachází zřejmý příklad.
+    * **Příklad:** *„kdokolivěk“*
+    * **Vysvětlení:** Jedná se o zájmennou složeninu vzniklou spojením tří slov (`kdo` + `koli` + `věk`).
+
 * **Frazeologismus:**
-    * **Příklad:** `je se mnou amen` (ustálené spojení pro "je konec")
+    * **Příklad:** *„je se mnou amen“* (ustálené spojení pro "je konec")
+
 * **Metonymie:**
-    * **Vysvětlení:** V textu lze nalézt náznak metonymie, kdy Harpagon volá konkrétní vykonavatele práva (`soudce`, `dráby`) a myslí tím celou instituci (soud, spravedlnost).
+    * **Příklad:** *„...rychle! Pro kamisale, draby, profouny, soudce...“*
+    * **Vysvětlení:** Zde slovo `soudce` nepředstavuje jen jednu osobu, ale je použito jako metonymie pro celý soudní systém a spravedlnost.
+
 * **Eufemismus:**
-    * **Vysvětlení:** V textu se nenachází, Harpagonův projev je naopak velmi expresivní a nadsazený (hyperbolický).
+    * **Vysvětlení:** V textu se nenachází. Harpagonův projev je záměrně hyperbolický (plný nadsázek), což je pravý opak eufemismu, jehož cílem je realitu zjemňovat.
