@@ -1,4 +1,4 @@
-# Molière: Lakomec - Kompletní rozbor testu
+# Molière: Lakomec
 
 ## Strana 1
 
@@ -14,19 +14,16 @@
 * **Čipera (Šindel, Štika)** - Kleantův sluha
 * **Kleantes** - Syn Harpagona
 * **Mariana** - Chudá dívka, kterou miluje Kleantes
-* **Valér** - Sluha Harpagona (v přestrojení, syn Anselma)
-* **Eliška** - Dcera Harpagona
-* **Jakub** - Harpagonův kočí a kuchař
 * **Anselm** - Otec Mariany a Valéra
 * **Frosina** - Dohazovačka
 
 ---
 
 ### 4. Označte správnou odpověď:
-* **Dilo Lakomec - je inspirován dílem autora:** Titus Maccius Plautus
+* **Dílo Lakomec - je inspirován dílem autora:** Titus Maccius Plautus
 * **Autor se v dile vysmívá:** mamonářství
 * **Vyberte možnost, která není pravdivá:** Kleantes-syn Anselma
-* **Kleantes si chce půjčit peníze od:** Lichváře *(Poznámka: Ačkoliv je lichvářem jeho otec, Kleantes to v danou chvíli neví a jedná s ním jako s cizím lichvářem).*
+* **Kleantes si chce půjčit peníze od:** Otce
 * **V dile je dodržen antický princip jednoty tří... nepatří:** tématu
 * **Vyberte možnost, která neodpovídá charakteristice Anselma:** Nápadnik Elišky
 * **Co neplatí o Harpagonovi:** Zaplatí svatbu svých dětí
@@ -39,7 +36,7 @@
 ---
 
 ### 5. Důkaz znaků klasicismu a osvícenství:
-* Dodržování klasicistního pravidla **tří jednot**: jednoty **času** (děj se odehraje během 24 hodin), **místa** (vše v jednom domě) a **děje** (jedna hlavní zápletka).
+* Dodržování klasicistního pravidla **tří jednot**: **času**, **místa** a **děje**.
 
 ---
 ---
@@ -63,7 +60,7 @@
 * **Na jakou událost Harpagon takto reaguje?:**
     * Na to, že mu ukradli jeho kasičku s penězi.
 * **Osvětli slovo taškář a šibal:**
-    * Zloděj a podvodník (obecně nečestný člověk, darebák).
+    * Zloděj a podvodník.
 
 ---
 
